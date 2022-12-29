@@ -1,0 +1,85 @@
+
+/* Universal Selector  */
+
+*{
+	padding: 0; 
+	margin: 5;
+/*	border-left: 5px solid pink;*/
+/*	border-right: 5px solid black;*/
+}
+
+/* Tag Selector  */
+
+div {
+		background: #e35555;
+		padding: 10px;
+		border: 1px solid #afafa;
+		border: 1px solid red;
+		border-radius: 15px;
+		margin: 10px;
+	}
+
+
+/* id  Selector  */
+
+#fivth-div {
+	font-size: 10px;
+	color: #2a8c8c;
+}
+
+/* class Selector  */
+
+.margin-top-200 {
+	margin-top:200px ;
+}
+
+.bk-color-aqua{
+	background: lightsalmon;
+}
+
+#margin-top-200{
+	margin-top:200px ;
+}
+
+
+/*body{ 
+	padding: 0px !important; 
+	background-color: #fff; 
+	font-family: 'Oxygen', sans-serif !important; 
+	font-size: 16px; 
+	color: #333c48; 
+	transition: all; 
+	background: #f6f6f6;
+}*/
+
+/* p , h1{
+		text-align: center;
+	}*/
+
+/* combinator selector  */
+
+/*h1,p{
+	text-align: justify;
+	color: #afafaf;
+}*/
+
+/* decendant Selector */
+
+/*.parent-div  p {
+	background: #f2f3f0;	
+}*/
+
+/* Child Selector */
+
+div  > p {
+	background: #afafaf;	
+}
+
+
+
+
+
+
+
+
+
