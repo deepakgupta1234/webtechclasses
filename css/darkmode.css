@@ -1,0 +1,59 @@
+
+/* Univresal Selector  */
+
+*{
+	padding: 0; 
+	margin: 0;
+/*	border: 1px dotted pink;*/
+}
+
+body{
+	background: #000;
+}
+
+/* Tag Selector  */
+
+/*div{
+	border: 1px dotted red;
+	padding: 13px 0px;
+	margin: 10px;
+}*/
+
+/* class Selector  */
+
+
+/*.user-form {
+	font-size: 20px;
+}*/
+
+/* id  Selector  */
+
+/*#head-h2 {
+	font-size: 20px;
+}
+*/
+
+/*body{ 
+	padding: 0px !important; 
+	background-color: #fff; 
+	font-family: 'Oxygen', sans-serif !important; 
+	font-size: 16px; 
+	color: #333c48; 
+	transition: all; 
+	background: #f6f6f6;
+}*/
+
+.user-form #head-h2{
+	text-align: center;
+}
+
+div {
+		background: #000;padding: 10px;border: 1px solid #afafa;border: 1px solid red;border-radius: 15px;
+		margin: 10px;
+		color: #fff;
+	}
+
+
+
+
+
